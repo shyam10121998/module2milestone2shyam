@@ -7,6 +7,48 @@ body {
     font-family: Arial, sans-serif;
 }
 
+header {
+    background-color: gray;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    height: 70px;
+    position: sticky;
+    top: 0; 
+    z-index: 100; 
+}
+
+.logo img {
+    width: 100px;
+    height: 70px; 
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    margin-right: 50px;
+}
+
+.menu li a:hover{
+    color: black;
+}
+
+
+.menu li:last-child {
+    margin-right: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
 .content{
     max-width: 960px ;         /* just for responsivenss */
     width: 85%;                /* just for responsivenss */

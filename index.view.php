@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<img class="banner" src="/images/banner.png" width="100%">
+<img class="banner" src="images/banner.png" width="100%">
 
 <!--product categories-->
 
