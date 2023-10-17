@@ -279,3 +279,38 @@ input[type="text"] {
     color: #fff;
     padding: 20px;
 }
+
+/*footer*/
+
+.footer {
+    text-align: center;
+    background-color: #333; 
+    color: black; 
+    padding: 20px 0;
+}
+
+.footer h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
+
