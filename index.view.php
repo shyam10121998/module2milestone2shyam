@@ -14,21 +14,21 @@
 <div class="content-wrap content">
 <div class="cards">
 <div class="card">
-<img src="/images/product category.png" alt="Image 1">
+<img src="images/product category.png" alt="Image 1">
 <div class="card-text">
 <h2>Japenese Maples</h2>
 </div>
 </div>
 
 <div class="card">
-<img src="/images/product category.png" alt="Image 2">
+<img src="images/product category.png" alt="Image 2">
 <div class="card-text">
 <h2>Deciduous</h2>
 </div>
 </div>
 
 <div class="card">
-<img src="/images/product category.png" alt="Image 3">
+<img src="images/product category.png" alt="Image 3">
 <div class="card-text">
 <h2>Evergreen</h2>
 </div>
@@ -82,7 +82,7 @@ Little by little the property was cleared and one by one the greenhouses and irr
 <div class="container content">
 <div class="block">
 <div class="circle-image">
-<img src="/images/product category.png" alt="Image 1">
+<img src="images/product category.png" alt="Image 1">
 </div>
 <div class="text">
 <p>
@@ -108,7 +108,7 @@ With great appreciation, <strong>Don and Michael</strong>
 </div>
 <div class="block">
 <div class="circle-image">
-<img src="/images/product category.png" alt="Image 2">
+<img src="images/product category.png" alt="Image 2">
 </div>
 <div class="text">
 <p>
