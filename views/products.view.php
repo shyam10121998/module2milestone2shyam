@@ -32,21 +32,21 @@
         <h1 class="seasonh1">Season's special</h1>
         <div class="cards">
             <div class="card">
-                <img src="/images/product category.png" alt="Image 1">
+                <img src="images/product category.png" alt="Image 1">
                 <div class="card-text">
                     <h2>Clematis</h2>
                 </div>
             </div>
             
             <div class="card">
-                <img src="/images/product category.png" alt="Image 2">
+                <img src="images/product category.png" alt="Image 2">
                 <div class="card-text">
                     <h2>Autumn Moon</h2>
                 </div>
             </div>
 
             <div class="card">
-                <img src="/images/product category.png" alt="Image 3">
+                <img src="images/product category.png" alt="Image 3">
                 <div class="card-text">
                     <h2>Green Cascade</h2>
                 </div>
@@ -57,90 +57,90 @@
                                                     <!--product categories-->
 
     <div class="category-container content">
-        <a href="conifers.html" class="category-link">
+        <a href="conifers.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>Conifers</h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="Conifers">
+                    <img src="images/product category.png" alt="Conifers">
                 </div>
             </div>
         </a>
-        <a href="deciduous.html" class="category-link">
+        <a href="deciduous.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>DECIDUOUS </h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="DECIDUOUS ">
+                    <img src="images/product category.png" alt="DECIDUOUS ">
                 </div>
             </div>
         </a>
-        <a href="grassesandbamboo.html" class="category-link">
+        <a href="grassesandbamboo.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>Grasses and Bamboo-assorted</h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="GandB">
+                    <img src="images/product category.png" alt="GandB">
                 </div>
             </div>
         </a>
-        <a href="vines.html" class="category-link">
+        <a href="vines.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>Vines-aasorted</h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="vines">
+                    <img src="images/product category.png" alt="vines">
                 </div>
             </div>
-        </a> <a href="edibles.html" class="category-link">
+        </a> <a href="edibles.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>Edibles</h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="edibles">
+                    <img src="images/product category.png" alt="edibles">
                 </div>
             </div>
         </a>
-        <a href="japanesemaples.html" class="category-link">
+        <a href="japanesemaples.php" class="category-link">
             <div class="category-card">
                 <div class="category-text">
                     <h2>Japanese Maples</h2>
                 </div>
                 <div class="category-image">
-                    <img src="/images/product category.png" alt="Japanese Maples">
+                    <img src="images/product category.png" alt="Japanese Maples">
                 </div>
             </div>
-            <a href="evergreen.html" class="category-link">
+            <a href="evergreen.php" class="category-link">
                 <div class="category-card">
                     <div class="category-text">
                         <h2>Evergreen</h2>
                     </div>
                     <div class="category-image">
-                        <img src="/images/product category.png" alt="evergreen">
+                        <img src="images/product category.png" alt="evergreen">
                     </div>
                 </div>
             </a>
-            <a href="hedging.html" class="category-link">
+            <a href="hedging.php" class="category-link">
                 <div class="category-card">
                     <div class="category-text">
                         <h2>Hedging</h2>
                     </div>
                     <div class="category-image">
-                        <img src="/images/product category.png" alt="Hedging">
+                        <img src="images/product category.png" alt="Hedging">
                     </div>
                 </div>
-                <a href="shrubs.html" class="category-link">
+                <a href="shrubs.php" class="category-link">
                     <div class="category-card">
                         <div class="category-text">
                             <h2>Shrubs</h2>
                         </div>
                         <div class="category-image">
-                            <img src="/images/product category.png" alt="shrubs">
+                            <img src="images/product category.png" alt="shrubs">
                         </div>
                     </div>
                 </a>      
