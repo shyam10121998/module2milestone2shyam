@@ -579,6 +579,16 @@ ul {
             color: black;
         }
 
+                             /*  Full blog */
+
+    .full-blog h1{
+        margin-bottom: 20px;
+    }
+
+    .full-blog p{
+        line-height: 27px;
+    }
+
         
                                             /* contact */
 
