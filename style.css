@@ -339,7 +339,8 @@ input[type="text"] {
     flex-wrap: wrap; 
 }
 
-.category-link {
+.category-link 
+{
     text-decoration: none; 
     width: 45%;
     margin-bottom: 20px;
@@ -348,7 +349,8 @@ input[type="text"] {
     transition: transform 0.3s ease; 
 }
 
-.category-card {
+.category-card
+ {
     width: 100%; 
     display: flex;
     flex-direction: row;
@@ -356,7 +358,8 @@ input[type="text"] {
     align-items: center; 
 }
 
-.category-text {
+.category-text 
+{
     width: 50%; 
     background-color: gray; 
     color:black;
@@ -374,7 +377,8 @@ input[type="text"] {
     padding: 10px;
 }
 
-.category-image img {
+.category-image img 
+{
     width: 100px; 
     height: 100px; 
     object-fit: cover;
