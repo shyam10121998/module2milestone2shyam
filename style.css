@@ -475,3 +475,43 @@ input[type="text"] {
     display: block;
 }
 
+                                        /* Tips */
+
+.planting-tips h1{
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.planting-tips {
+     margin: 0 auto;
+    padding: 20px;
+}
+
+.tips {
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.tips:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
