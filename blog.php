@@ -1,3 +1,6 @@
-<?php require('header.php') ?>
-<?php require('views/blog.view.php') ?>
-<?php require('footer.php') ?>
+<?php
+require('db_connection.php');
+require('header.php');
+
+require('views/blog.view.php');
+require('footer.php');
