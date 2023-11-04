@@ -9,6 +9,9 @@
                 <li><a href="tips.php">Tips</a></li>
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
+                <li><a href="login.php">Login</a></li>
+                <li><a href="registration.php">Sign Up</a></li>
+                <li><a href="logout.php">LogOut</a></li>
             </ul>
         </nav>
     </header>
