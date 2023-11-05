@@ -4,7 +4,7 @@
     </div>
     <nav>
         <ul class="menu">
-            <li><a href="registration.php" style="padding-right: 25px;">Registration</a></li>
+            <li><a href="registration.php" style="padding-right: 25px;">Register</a></li>
 
         </ul>
     </nav>

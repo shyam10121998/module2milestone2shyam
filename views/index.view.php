@@ -59,8 +59,10 @@ We offer products such conifers,evergreen, vines, grasses, edibles and bamboos.A
 <p>If you have any questions or need assistance, feel free to reach out to us. Our team is ready to assist you.</p>
 </div>
 <div class="search-bar">
-<input type="text" placeholder="Ask a question here">
-<a href="">submit</a>
+    <form method="POST" action="question_submit.php">
+        <input type="text" placeholder="Ask a question here" name="question">
+        <button type="submit" style="background-color: black; color:white">Submit</button>
+    </form>
 </div>
 </div>
 
