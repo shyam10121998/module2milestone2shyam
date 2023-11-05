@@ -6,6 +6,15 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
+
+<?php
+$sql = "SELECT * FROM categories";
+$result = $mysqli->query($sql);
+
+$results = $result->fetch_all(MYSQLI_ASSOC);
+
+?>
+
 <body>
 
     <div class="note content">
