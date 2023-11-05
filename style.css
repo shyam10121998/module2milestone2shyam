@@ -708,7 +708,8 @@ strong{
             padding: 20px;
             border: 1px solid #ccc;
             border-radius: 5px;
-            background-image: url(images/contact\ form\ bg.PNG);
+            color: white;
+           background-color: #202212;
         }
 
         form:hover{
@@ -745,7 +746,7 @@ strong{
         }
 
         input[type="submit"] {
-            background-color:black;
+            background-color:#899F38;
             color: white;
             border: none;
             border-radius: 5px;
@@ -754,8 +755,8 @@ strong{
         }
 
         input[type="submit"]:hover {
-            background-color: #0b0908;
-            color: #899F38;
+            background-color: #ff652f;
+            color: #0b0908;
         }
 
 

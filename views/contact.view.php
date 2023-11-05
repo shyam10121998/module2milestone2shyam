@@ -2,14 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,800&family=Oswald&family=Rubik&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
   
                                                          <!--banner-->
-    <img class="banner" src="images/banner.png" width="100%" alt="360 degree view of the outback nursery image">
+    <img class="banner" src="images/360view.jpg" width="100%" height="600" alt="360 degree view of the outback nursery image">
 
                                                         <!--contact page details-->
 
@@ -38,7 +41,7 @@
     
     <div class="contact-section">
         <div class="contact-left">
-            <img src="images/product category.png" alt="Google Map Image">
+            <img src="images/contactusaddress.jpg" alt="Google Map Image">
         </div>
         <div class="contact-right">
             <h2>Address:</h2>
