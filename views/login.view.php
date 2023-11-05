@@ -30,40 +30,6 @@
         height: 100vh;
     }
 
-    .login-container {
-        background-color: #fff;
-        border-radius: 5px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-        /* Black box shadow */
-        padding: 20px;
-        width: 300px;
-        text-align: center;
-    }
-
-    input[type="text"],
-    input[type="password"] {
-        width: 100%;
-        padding: 10px;
-        margin: 10px 0;
-        border: 1px solid #ccc;
-        border-radius: 3px;
-    }
-
-    button.button {
-        display: block;
-        width: 90%;
-        align-items: center;
-        padding: 10px;
-        margin: 5px;
-        background-color: gray;
-        border: none;
-        color: #fff;
-        border-radius: 3px;
-        text-decoration: none;
-        cursor: pointer;
-        position: relative;
-        top: 20px;
-    }
     </style>
 </head>
 
