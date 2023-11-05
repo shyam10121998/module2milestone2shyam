@@ -66,93 +66,27 @@ $results = $result->fetch_all(MYSQLI_ASSOC);
                                                     <!--product categories-->
 
     <div class="category-container content">
-        <a href="conifers.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>Conifers</h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="Conifers">
-                </div>
-            </div>
-        </a>
-        <a href="deciduous.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>DECIDUOUS </h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="DECIDUOUS ">
-                </div>
-            </div>
-        </a>
-        <a href="grassesandbamboo.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>Grasses and Bamboo-assorted</h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="GandB">
-                </div>
-            </div>
-        </a>
-        <a href="vines.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>Vines-aasorted</h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="vines">
-                </div>
-            </div>
-        </a> <a href="edibles.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>Edibles</h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="edibles">
-                </div>
-            </div>
-        </a>
-        <a href="japanesemaples.php" class="category-link">
-            <div class="category-card">
-                <div class="category-text">
-                    <h2>Japanese Maples</h2>
-                </div>
-                <div class="category-image">
-                    <img src="images/product category.png" alt="Japanese Maples">
-                </div>
-            </div>
-            <a href="evergreen.php" class="category-link">
-                <div class="category-card">
-                    <div class="category-text">
-                        <h2>Evergreen</h2>
-                    </div>
-                    <div class="category-image">
-                        <img src="images/product category.png" alt="evergreen">
-                    </div>
-                </div>
-            </a>
-            <a href="hedging.php" class="category-link">
-                <div class="category-card">
-                    <div class="category-text">
-                        <h2>Hedging</h2>
-                    </div>
-                    <div class="category-image">
-                        <img src="images/product category.png" alt="Hedging">
-                    </div>
-                </div>
-                <a href="shrubs.php" class="category-link">
-                    <div class="category-card">
-                        <div class="category-text">
-                            <h2>Shrubs</h2>
+    
+    <?php
+
+        foreach ($results as $result) {
+
+            echo "
+                <a href='products-template.php?category_id={$result['id']}' class='category-link'>
+                    <div class='category-card'>
+                        <div class='category-text'>
+                            <h2>{$result['name']}</h2>
                         </div>
-                        <div class="category-image">
-                            <img src="images/product category.png" alt="shrubs">
+                        <div class='category-image'>
+                            <img src='images/{$result['image']}' alt='Conifers'>
                         </div>
                     </div>
-                </a>      
+                </a>
+            ";
+        }
+
+        ?>
+    
     </div>
 
                                             <!--more information-->
