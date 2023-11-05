@@ -126,46 +126,25 @@ Little by little the property was cleared and one by one the greenhouses and irr
 
 <!--reviews-->
 
-<h1 class="reviewh1 content">Recent reviews</h1>
-<div class="container content">
-<div class="block">
-<div class="circle-image">
-<img src="images/product category.png" alt="Image 1">
-</div>
-<div class="text">
-<p>
-We have been coming to Outback for eight years now, and it's our favourite nursery on Vancouver Island. Read on to see why... Outback is a three-generation family owned and operated nursery. Everyone is involved and passionate about growing healthy happy plants. We love walking through the 5 greenhouses full of Japanese maples and other foundation trees and shrubs. It's like taking a Japanese forest bath.
+ 
+<h1 class="reviewh1 content">Our recent reviews</h1>
+    <div class="container content">
+        <div class="block">
+            <div class="text">
+                <p>
+                    For the past eight years, our loyalty has been unwavering towards Outback, a family-owned nursery nestled on Vancouver Island. Their profound passion for cultivating vibrant plants, especially Japanese maples, has captivated us. Annette's invaluable expertise guides us in selecting the perfect specimens. The nursery's commitment to maintaining healthy stock, along with their warm and personalized service, keeps us coming back. What's more, their fair prices have made our journey towards creating a beautiful garden not only delightful but also affordable. <strong>Don and Michael</strong>
+                </p>
+            </div>
+        </div>
+        <div class="block">
+            <div class="text">
+                <p>
+                    We recently moved from Vancouver to the Ships Point area to 1.5 acres of garden. Our experience with the family run Outback Nursery over the past several years has been exceptional. Their knowledge of plants combined with their very friendly and helpful service has made our experience enjoyable. Equally important is their excellent pricing, the unique and wide range of plants, shrubs, trees. They also have beautiful rich mulches and soils for the garden. We are very lucky to have found Outback Nursery, the family has helped us make our garden a success.
 
-Outback's selection of Japanese maples is the best we've ever seen. They propagate their own trees, and grow them in abundance. If we describe the qualities we want, and the location, they will supply us with a tree that will thrive, and which will become a feature of our garden.
-
-Annette is wonderfully knowledgeable about plants in general, and her plants in particular. She and her family work hard to choose plants that will do well in our climate, and look good at the same time.
-
-Their plants are healthy. We've never been sent home with plants that are sickly or misshapen. The more we have learned about how they transplant, propagate, and grow their plants, the more trust we have in their stock.
-
-The advice we get from them is accurate and comprehensive. Whether it's planting instruction, or ideas for companion plants, or suggestions for plant care, their advice works.
-
-The entire family (staff) is warm and personable. We feel that we are more than customers, and the care we receive makes us want to come back.
-
-Did I mention fair prices? Outback sells plants at excellent prices, and that makes it much more affordable to create a beautiful garden.
-
-With great appreciation, <strong>Don and Michael</strong>
-
-
-</p>
-</div>
-</div>
-<div class="block">
-<div class="circle-image">
-<img src="images/product category.png" alt="Image 2">
-</div>
-<div class="text">
-<p>
-We recently moved from Vancouver to the Ships Point area to 1.5 acres of garden. Our experience with the family run Outback Nursery over the past several years has been exceptional. Their knowledge of plants combined with their very friendly and helpful service has made our experience enjoyable. Equally important is their excellent pricing, the unique and wide range of plants, shrubs, trees. They also have beautiful rich mulches and soils for the garden. We are very lucky to have found Outback Nursery, the family has helped us make our garden a success.
 <strong>Liane and JP Cardinal</strong>
-</p>
-</div>
-</div>
-</div>
-
+                </p>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
