@@ -11,6 +11,7 @@
 <body>
 <img class="banner" src="images/banner.png" width="100%">
 
+
 <!--product categories-->
 
 <div class="content-wrap content">
