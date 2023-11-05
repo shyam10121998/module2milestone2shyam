@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,800&family=Oswald&family=Rubik&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
     <title>Document</title>
@@ -30,40 +33,6 @@
             height: 100vh;
         }
 
-        .registration-container {
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-            padding: 20px;
-            height: 500px;
-            text-align: center;
-            position: absolute;
-            top: 106px;
-        }
-
-        input {
-            width: 100%;
-            padding: 10px;
-            margin: 10px 0;
-            border: 1px solid #ccc;
-            border-radius: 3px;
-        }
-
-        button.button {
-            display: block;
-            width: 90%;
-            align-items: center;
-            padding: 10px;
-            margin: 5px;
-            background-color: gray;
-            border: none;
-            color: #fff;
-            border-radius: 3px;
-            text-decoration: none;
-            cursor: pointer;
-            position: relative;
-            top: 38px;
-        }
     </style>
 </head>
 
