@@ -10,11 +10,9 @@
     <title>Document</title>
 </head>
 <body>
-<img class="banner" src="images/banner.png" width="100%">
 
 
-<!--product categories-->
-
+<!--slider-->
 <div class="slideshow-container">
         <div class="mySlides">
             <img src="images/vinesassortedrose.jpg" alt="Image 1">
@@ -28,6 +26,64 @@
             <img src="images/deciduouspissardii.png" alt="Image 3">
         </div>
     </div>
+
+                                                        <!--js for slideshow-->
+                                                        <script>
+        let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    let i;
+    const slides = document.getElementsByClassName("mySlides");
+
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+
+    slideIndex++;
+
+    if (slideIndex > slides.length) {
+        slideIndex = 1;
+    }
+
+    slides[slideIndex - 1].style.display = "block";
+
+    setTimeout(showSlides, 5000); // Change image every 5 seconds (5000ms)
+}
+
+    </script>
+
+
+
+<!--product categories-->
+
+<div class="content-wrap content">
+<div class="cards">
+<div class="card">
+<img src="images/product category.png" alt="Image 1">
+<div class="card-text">
+<h2>Japenese Maples</h2>
+</div>
+</div>
+
+<div class="card">
+<img src="images/product category.png" alt="Image 2">
+<div class="card-text">
+<h2>Deciduous</h2>
+</div>
+</div>
+
+<div class="card">
+<img src="images/product category.png" alt="Image 3">
+<div class="card-text">
+<h2>Evergreen</h2>
+</div>
+</div>  
+</div>
+<div class="btn-container">
+<a href="products.html" class="btn">See All</a>
+</div>
+</div>
 
 <!--what we offer-->
 
