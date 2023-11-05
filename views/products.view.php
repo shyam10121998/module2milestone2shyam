@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,800&family=Oswald&family=Rubik&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
@@ -41,21 +44,21 @@ $results = $result->fetch_all(MYSQLI_ASSOC);
         <h1 class="seasonh1">Season's special</h1>
         <div class="cards">
             <div class="card">
-                <img src="images/product category.png" alt="Image 1">
+                <img src="images/clemantis.jpg"  width="250" height="300" alt="Image 1">
                 <div class="card-text">
                     <h2>Clematis</h2>
                 </div>
             </div>
             
             <div class="card">
-                <img src="images/product category.png" alt="Image 2">
+                <img src="images/autumnmoon.jpg"  width="250" height="300" alt="Image 2">
                 <div class="card-text">
                     <h2>Autumn Moon</h2>
                 </div>
             </div>
 
             <div class="card">
-                <img src="images/product category.png" alt="Image 3">
+                <img src="images/greencascade.jpg"  width="250" height="300" alt="Image 3">
                 <div class="card-text">
                     <h2>Green Cascade</h2>
                 </div>

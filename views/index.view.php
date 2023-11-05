@@ -60,21 +60,21 @@ function showSlides() {
 <div class="content-wrap content">
 <div class="cards">
 <div class="card">
-<img src="images/product category.png" alt="Image 1">
+<img src="images/japanesemaplesbanner.jpg" width="200" height="200" alt="Image 1">
 <div class="card-text">
 <h2>Japenese Maples</h2>
 </div>
 </div>
 
 <div class="card">
-<img src="images/product category.png" alt="Image 2">
+<img src="images/deciduousbanner.jpg" width="200" height="200" alt="Image 2">
 <div class="card-text">
 <h2>Deciduous</h2>
 </div>
 </div>
 
 <div class="card">
-<img src="images/product category.png" alt="Image 3">
+<img src="images/evergreenbanner.jpg" width="200" height="200" alt="Image 3">
 <div class="card-text">
 <h2>Evergreen</h2>
 </div>
@@ -105,7 +105,7 @@ We offer products such conifers,evergreen, vines, grasses, edibles and bamboos.A
 <div class="search-bar">
     <form method="POST" action="question_submit.php">
         <input type="text" placeholder="Ask a question here" name="question">
-        <button type="submit" style="background-color: black; color:white">Submit</button>
+        <button class="helpbutton" type="submit">Submit</button>
     </form>
 </div>
 </div>

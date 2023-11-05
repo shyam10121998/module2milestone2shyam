@@ -1,6 +1,6 @@
 <header>
         <div class="logo">
-         <a href="index.php"> <img src="images/logo.png"  alt="Logo"></a>  
+         <a href="index.php"> <img src="images/logo.jpg"  alt="Logo"></a>  
         </div>
         <nav>
             <ul class="menu">
