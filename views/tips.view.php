@@ -12,7 +12,7 @@
 <body>                                   
                                             <!--tips-->       
 
-    <img class="banner" src="images/banner.png" width="100%">
+    <img class="banner" src="images/tipspagebanner.jpg">
 
     <section class="planting-tips content">
         <h1>Planting Tips for Trees and Shrubs</h1>
