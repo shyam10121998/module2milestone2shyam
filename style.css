@@ -278,12 +278,12 @@ input[type="text"] {
     border: 2px solid black;
     position: relative;
     cursor: pointer;
-    background: url('/images/review1.jpg') center/cover no-repeat;
+    background: url('images/review1.jpg') center/cover no-repeat;
     overflow: hidden;
 }
 
 .block:nth-child(2) {
-    background: url('/images/review2.jpg') center/cover no-repeat; 
+    background: url('images/review2.jpg') center/cover no-repeat; 
 }
 
 .block .text p{
