@@ -9,7 +9,14 @@
 <body>                                      
                                             <!--blog-->       
 
-   
+                                            <?php
+
+$blogSql = "SELECT * FROM `blogs`";
+
+$results = $mysqli->query($blogSql);
+
+
+?>
 
 </body>
 </html>
