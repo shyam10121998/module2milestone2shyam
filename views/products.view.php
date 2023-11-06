@@ -32,9 +32,24 @@ $results = $result->fetch_all(MYSQLI_ASSOC);
             
             We hope our list provides a good reference as you plan and prepare your planting project.
             
-            PLEASE VISIT the store to check current inventory levels!
+            <strong>PLEASE VISIT </strong>the store to check current inventory levels!
             
-            THANK YOU!</p>
+            <strong>THANK YOU!</strong></p>
+
+        <br>                                
+    <p> <strong>PEAK SEASON</strong> for fruit trees is mid March through mid April.
+
+<strong>PEAK SEASON</strong> for hedging is April and September - especially for the specimes we grow and dig from our  <strong>TREE FARM</strong>.  
+
+We try to keep multiple sizes in stock.</p>
+
+<p>Blueberry shrubs -<strong>starting at $15</strong> -  Reka, Duke or Blue Crop varieties
+Raspberry canes -<strong>$15</strong></p>
+
+<p> 
+Hazelnuts - EFB (Eastern Filbert Blight) resistant - new varieties - Jefferson, Eta and Theta.  Our trees are mature and producing nuts.
+</p>
+
     </div>
 
                                                 <!--season's special-->
@@ -90,24 +105,6 @@ $results = $result->fetch_all(MYSQLI_ASSOC);
 
         ?>
     
-    </div>
-
-                                            <!--more information-->
-
-    <div class="moreinformation content">
-
-    <p>PEAK SEASON for fruit trees is mid March through mid April.
-
-        PEAK SEASON for hedging is April and September - especially for the specimes we grow and dig from our TREE FARM.  
-        
-        We try to keep multiple sizes in stock.</p>
-
-    <p>Blueberry shrubs -<strong>starting at $15</strong> -  Reka, Duke or Blue Crop varieties
-        Raspberry canes -<strong>$15</strong></p>
-        
-    <p> 
-        Hazelnuts - EFB (Eastern Filbert Blight) resistant - new varieties - Jefferson, Eta and Theta.  Our trees are mature and producing nuts.
-    </p>
     </div>
     
 </body>
